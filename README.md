@@ -36,11 +36,7 @@ Dark and Light Mode : Theme Toggle: Provide an option for users to switch betwee
 
 Custom Text Editor: Email Formatting: Ensure the editor supports HTML formatting for crafting professional emails.
 
-
 # Steps to Run Locally:
-
-Clone the Repository:
-## Steps to Run Locally:
 
 1. Clone the Repository:
    ```shell
@@ -56,8 +52,11 @@ Clone the Repository:
    npm run dev
 5. Access the Application: Open your browser and navigate to http://localhost:3000.
 
+Preview:
 
 
+
+![Screenshot 2024-08-13 180714](https://github.com/user-attachments/assets/5d70f534-8321-4363-8bbb-4290246e127b)
 
 
 

@@ -51,21 +51,17 @@ Clone the Repository:
    ```shell
    cd ReachInbox
 
-<button onclick="copyCode('navigate')">Copy</button>
-
-<pre id="navigate" style="display:none;">cd ReachInbox.ai</pre>
 
 3. Install Dependencies:
 
-<button onclick="copyCode('install')">Copy</button>
-
-<pre id="install" style="display:none;">npm install</pre>
+   ```shell
+   npm install
+   
 
 4. Run the Application:
 
-<button onclick="copyCode('run')">Copy</button>
-
-<pre id="run" style="display:none;">npm run dev</pre>
+   ```shell
+   npm run dev
 
 
 

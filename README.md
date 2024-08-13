@@ -52,12 +52,25 @@ Custom Text Editor: Email Formatting: Ensure the editor supports HTML formatting
    npm run dev
 5. Access the Application: Open your browser and navigate to http://localhost:3000.
 
-Preview:
+# Preview:
 
 
 
 ![Screenshot 2024-08-13 180714](https://github.com/user-attachments/assets/5d70f534-8321-4363-8bbb-4290246e127b)
 
+![Screenshot 2024-08-13 180821](https://github.com/user-attachments/assets/a280500d-5ecd-4466-a64d-0f9dcc2984bb)
+
+![Screenshot 2024-08-13 180836](https://github.com/user-attachments/assets/0007c6cc-044f-40ea-8dae-b8f9d44b2192)
+
+![Screenshot 2024-08-13 180850](https://github.com/user-attachments/assets/f310c9ac-b44f-4b9d-bb5b-be8f22e4c803)
+
+![Screenshot 2024-08-13 180901](https://github.com/user-attachments/assets/4c633c1f-23a8-4869-9da2-acff14bc9f03)
+
+![Screenshot 2024-08-13 180910](https://github.com/user-attachments/assets/2adaf47b-c6d9-424a-a7d7-d4817c8298b3)
+
+![Screenshot 2024-08-13 180939](https://github.com/user-attachments/assets/333c3ba7-0a8e-4312-b3d8-6716380c4c46)
+
+![Screenshot 2024-08-13 181939](https://github.com/user-attachments/assets/d1ef8165-3d34-458d-b757-a639a007ff3d)
 
 
 

@@ -45,21 +45,13 @@ Clone the Repository:
 1. Clone the Repository:
    ```shell
    git clone https://github.com/LAKAVATHRAGHURAM/ReachInbox.git
-
-
 2. Navigate to the Project Directory:
    ```shell
    cd ReachInbox
-
-
 3. Install Dependencies:
-
    ```shell
    npm install
-   
-
 4. Run the Application:
-
    ```shell
    npm run dev
 

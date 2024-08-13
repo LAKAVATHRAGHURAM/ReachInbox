@@ -54,6 +54,7 @@ Clone the Repository:
 4. Run the Application:
    ```shell
    npm run dev
+5. Access the Application: Open your browser and navigate to http://localhost:3000.
 
 
 

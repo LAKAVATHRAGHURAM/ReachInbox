@@ -48,6 +48,8 @@ Clone the Repository:
 
 
 2. Navigate to the Project Directory:
+   ```shell
+   cd ReachInbox
 
 <button onclick="copyCode('navigate')">Copy</button>
 

@@ -44,21 +44,26 @@ Clone the Repository:
 
 1. Clone the Repository:
    ```shell
-   git clone https://github.com/manni2000/ReachInbox.ai.git
+   git clone https://github.com/LAKAVATHRAGHURAM/ReachInbox.git
 
-git clone 
 
-Navigate to the Project Directory:
+2. Navigate to the Project Directory:
 
-cd ReachInbox.ai
+<button onclick="copyCode('navigate')">Copy</button>
 
-Install Dependencies:
+<pre id="navigate" style="display:none;">cd ReachInbox.ai</pre>
 
-npm install
+3. Install Dependencies:
 
-Run the Application:
+<button onclick="copyCode('install')">Copy</button>
 
-npm run dev
+<pre id="install" style="display:none;">npm install</pre>
+
+4. Run the Application:
+
+<button onclick="copyCode('run')">Copy</button>
+
+<pre id="run" style="display:none;">npm run dev</pre>
 
 
 

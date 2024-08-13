@@ -40,6 +40,11 @@ Custom Text Editor: Email Formatting: Ensure the editor supports HTML formatting
 # Steps to Run Locally:
 
 Clone the Repository:
+## Steps to Run Locally:
+
+1. Clone the Repository:
+   ```shell
+   git clone https://github.com/manni2000/ReachInbox.ai.git
 
 git clone 
 
